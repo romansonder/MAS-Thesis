@@ -44,4 +44,4 @@ technical_report.pdf
 *.class
 
 # exclude folders
-./documentation/99_Template/
+/documentation/99_Template/
